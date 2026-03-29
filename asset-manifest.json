@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/food-recipe-search/static/css/main.f855e6bc.css",
-    "main.js": "/food-recipe-search/static/js/main.87009fd6.js",
-    "static/js/453.5f854990.chunk.js": "/food-recipe-search/static/js/453.5f854990.chunk.js",
+    "main.js": "/food-recipe-search/static/js/main.bc47666c.js",
+    "static/js/453.ab3326c3.chunk.js": "/food-recipe-search/static/js/453.ab3326c3.chunk.js",
     "static/media/loader.gif": "/food-recipe-search/static/media/loader.a1a996746e5e48352c81.gif",
     "index.html": "/food-recipe-search/index.html",
     "main.f855e6bc.css.map": "/food-recipe-search/static/css/main.f855e6bc.css.map",
-    "main.87009fd6.js.map": "/food-recipe-search/static/js/main.87009fd6.js.map",
-    "453.5f854990.chunk.js.map": "/food-recipe-search/static/js/453.5f854990.chunk.js.map"
+    "main.bc47666c.js.map": "/food-recipe-search/static/js/main.bc47666c.js.map",
+    "453.ab3326c3.chunk.js.map": "/food-recipe-search/static/js/453.ab3326c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.87009fd6.js"
+    "static/js/main.bc47666c.js"
   ]
 }
